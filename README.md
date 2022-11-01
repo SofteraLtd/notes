@@ -1,2 +1,2 @@
-# AWS Certification Notes
+# MyNotes
 See Wiki
